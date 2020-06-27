@@ -5,7 +5,7 @@ The data sequence contained 59 unique words which were stored in a list and late
 
 To this, a seed text was give to predict the next 5 words, the seed given was:
 "scope of artificial intelligence"
-Note that the the model has never previously seen the word artifical intelligence before and does not even know its meaning, to this the model was able to predict the next 5 words as:
+Note that the the model has never previously seen the word "artifical intelligence" before and does not even know its meaning, to this the model was able to predict the next 5 words as:
 "scope of artificial intelligence learning has automated our world"
 The sentence although is not 100% correct gramatically but we can somewhat infer the root meaning if it which matters the most.
 
